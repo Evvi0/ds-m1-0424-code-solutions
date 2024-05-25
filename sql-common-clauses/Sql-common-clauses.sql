@@ -1,4 +1,4 @@
-SELECT id, log_feature log, volume vol FROM log_feature lf 
+SELECT id, log_feature `log`, volume vol FROM log_feature lf 
 
 SELECT id, resource_type 
 FROM resource_type rt 
